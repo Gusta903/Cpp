@@ -1,0 +1,10 @@
+ID: 1
+Descricao: Ler teoria das ideias
+Status: [x]
+Prioridade: 1
+-------------------------
+ID: 2
+Descricao: Correr com meu irm∆o
+Status: [x]
+Prioridade: 2
+-------------------------
